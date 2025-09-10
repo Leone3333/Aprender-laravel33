@@ -5,6 +5,6 @@
           <title>Minha Primeira Aplicação Laravel</title>
       </head>
       <body>
-          <h1>Olá Mundo!</h1>
+          <h1>Olá Pedro!</h1>
       </body>
   </html>
